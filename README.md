@@ -11,7 +11,7 @@ Demo
 
 ---
 
-## 💡 What This Project Offers
+What This Project Offers
 
 - Fully responsive **login & register** pages 🖥️📱  
 - Password strength indicator  
