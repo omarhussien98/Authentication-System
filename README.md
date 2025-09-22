@@ -1,11 +1,11 @@
-# Enhanced Authentication System
+Enhanced Authentication System
 
-**Secure Authentication System**  
+Secure Authentication System**  
 Sign in to access your account or create a new one to get started with our platform.
 
 ---
 
-## 🔍 Demo
+Demo
 
 [Live Preview](https://omarhussien98.github.io/Authentication-System/)  
 
@@ -21,7 +21,7 @@ Sign in to access your account or create a new one to get started with our platf
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 | Component | Tool / Tech |
 |-----------|-------------|
@@ -30,7 +30,7 @@ Sign in to access your account or create a new one to get started with our platf
 
 ---
 
-## ⚙️ Back-End
+Back-End
 
 The back-end part of this Authentication System is maintained in a **separate repository**.  
 It handles user authentication (registration, login), secure password storage, token generation, and protected routes.  
@@ -38,7 +38,7 @@ You can find it here: **[Backend Repo Link](https://github.com/omarhussien98/Aut
 
 ---
 
-## 🚀 Getting Started (Front-End)
+Getting Started (Front-End)
 
 1. Clone this repository:  
    ```bash
