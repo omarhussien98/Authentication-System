@@ -13,9 +13,7 @@ Demo
 
 What This Project Offers
 
-- Fully responsive **login & register** pages 🖥️📱  
-- Password strength indicator  
-- Show / hide password toggle  
+- Fully responsive **login & register** pages 🖥️📱    
 - Clean, user-friendly UI design  
 - Remember Me & Forgot Password UI ready
 
