@@ -1,5 +1,6 @@
 <img width="844" height="582" alt="Login" src="https://github.com/user-attachments/assets/20410230-f7b9-4423-93a5-93f6f9ce9ead" /> 
 
+<img width="844" height="582" alt="Register" src="https://github.com/user-attachments/assets/96f13a0d-c743-4d40-884b-8070386d4b25" />
 
 # 🔐 Authentication System
 
