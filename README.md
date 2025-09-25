@@ -1,6 +1,8 @@
-<img width="844" height="582" alt="Login" src="https://github.com/user-attachments/assets/20410230-f7b9-4423-93a5-93f6f9ce9ead" /> 
+<img width="844" height="575" alt="Login" src="https://github.com/user-attachments/assets/9b303d0a-02ee-433e-adc3-b949741c95ee" />
 
-<img width="844" height="582" alt="Register" src="https://github.com/user-attachments/assets/96f13a0d-c743-4d40-884b-8070386d4b25" />
+
+
+<img width="844" height="575" alt="Register" src="https://github.com/user-attachments/assets/fe7c6362-18a0-4e1f-90bf-d0cd3af44a9a" />
 
 # 🔐 Authentication System
 
