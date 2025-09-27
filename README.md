@@ -1,13 +1,19 @@
 <img width="844" height="575" alt="Login" src="https://github.com/user-attachments/assets/9b303d0a-02ee-433e-adc3-b949741c95ee" />
 
 
+<img width="844" height="575" alt="postman" src="https://github.com/user-attachments/assets/b94fc41a-9865-4ff4-aa93-cd5e890fd43f" />
 
-<img width="844" height="575" alt="Register" src="https://github.com/user-attachments/assets/fe7c6362-18a0-4e1f-90bf-d0cd3af44a9a" />
+
+<img width="844" height="575" alt="image" src="https://github.com/user-attachments/assets/5658083e-2165-4bc1-b391-a6e5cb63c66e" />
 
 # 🔐 Authentication System
 
-A modern frontend authentication system with responsive design.
+"This project is a Full-Stack application with a separate Back-End API built in Node.js/Express and connected to MongoDB."
 
+# Back-End Repository
+- GitHub Repo: [Authentication-System-Back-End](https://github.com/omarhussien98/Authentication-System-back-end/)
+  
+----
 ## ✨ Features
 - User Login & Registration
 - Responsive Design
@@ -33,15 +39,13 @@ Before running the project, make sure you have the following installed on your m
 - A `.env` file configured if required by the back-end project.
 
 ## 🛠 Tech Stack
-- HTML5, CSS3, JavaScript
-- React.js
-- Context API
+- HTML5, CSS3, JavaScript and React.js
+- Node.js and express
+- MongoDB Atlas
 
 ##  Live Demo
 [View Project Here](https://omarhussien98.github.io/Authentication-System/)
 
-# Back-End Repository
-- GitHub Repo: [Authentication-System-Back-End](https://github.com/omarhussien98/Authentication-System-back-end/)
 -------------------------------------------
 ## 🚀 Getting Started (Front-End + Back-End)
 
